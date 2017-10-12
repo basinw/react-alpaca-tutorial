@@ -7,9 +7,20 @@
   2. [Yarn](https://yarnpkg.com/en/) ( In case you don't want to run Docker )
     - Version 1.2.1
 ___
+## Clone repository
+Before develop React project you need to cloning this repository by using this command.
+```sh
+  $ git clone https://github.com/basinw/react-alpaca-tutorial
+```
+
+And cd (`change directory`) to this project by using this command.
+```sh
+  $ cd react-alpaca-tutorial
+```
+___
 ## Development Guide
 
-After you already pull this repository, you need to install `node_modules` by using this command.
+After you already clone this repository, you need to install `node_modules` by using this command.
 ```sh
   $ yarn
 ```
