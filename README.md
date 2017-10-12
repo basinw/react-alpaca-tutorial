@@ -4,7 +4,7 @@
 
   1. [NodeJS](https://nodejs.org/en/)
     - Version 8.0.0 +
-  2. [Yarn](https://yarnpkg.com/en/) ( In case you don't want to run Docker )
+  2. [Yarn](https://yarnpkg.com/en/) 
     - Version 1.2.1
 ___
 ## Clone repository
