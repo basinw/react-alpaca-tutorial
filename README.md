@@ -17,6 +17,10 @@ And cd (`change directory`) to this project by using this command.
 ```sh
   $ cd react-alpaca-tutorial
 ```
+Extra Command ls for show files / directories in that position
+```sh
+  $ ls
+```
 ___
 ## Development Guide
 
